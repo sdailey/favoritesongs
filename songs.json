@@ -1,0 +1,217 @@
+{
+  "date":"2025-08-05",
+  "songs": [
+    {
+      "category": "Indie Rock",
+      "lists": {
+        "popular": [
+          { "artist": "The Strokes", "title": "Last Nite" },
+          { "artist": "Arctic Monkeys", "title": "Do I Wanna Know?" },
+          { "artist": "Yeah Yeah Yeahs", "title": "Maps" },
+          { "artist": "Tame Impala", "title": "The Less I Know the Better" },
+          { "artist": "Vampire Weekend", "title": "A-Punk" },
+          { "artist": "Florence + The Machine", "title": "Dog Days Are Over" },
+          { "artist": "MGMT", "title": "Electric Feel" },
+          { "artist": "The Killers", "title": "Mr. Brightside" },
+          { "artist": "Modest Mouse", "title": "Float On" },
+          { "artist": "Franz Ferdinand", "title": "Take Me Out" }
+        ],
+        "important": [
+          { "artist": "Pavement", "title": "Cut Your Hair" },
+          { "artist": "Neutral Milk Hotel", "title": "Holland, 1945" },
+          { "artist": "Pixies", "title": "Where Is My Mind?" },
+          { "artist": "The Smiths", "title": "This Charming Man" },
+          { "artist": "Arcade Fire", "title": "Wake Up" },
+          { "artist": "Radiohead", "title": "Paranoid Android" },
+          { "artist": "Belle and Sebastian", "title": "The Boy With the Arab Strap" },
+          { "artist": "TV on the Radio", "title": "Wolf Like Me" },
+          { "artist": "Sonic Youth", "title": "Teen Age Riot" },
+          { "artist": "Interpol", "title": "Obstacle 1" }
+        ],
+        "good_but_obscure": [
+          { "artist": "The Walkmen", "title": "In the New Year" },
+          { "artist": "Okkervil River", "title": "For Real" },
+          { "artist": "The Microphones", "title": "I Felt Your Shape" },
+          { "artist": "Wolf Parade", "title": "I'll Believe in Anything" },
+          { "artist": "Land of Talk", "title": "Some Are Lakes" },
+          { "artist": "Beulah", "title": "Emma Blowgun's Last Stand" },
+          { "artist": "The Wrens", "title": "She Sends Kisses" },
+          { "artist": "Cymbals Eat Guitars", "title": "And the Hazy Sea" },
+          { "artist": "Deerhunter", "title": "Nothing Ever Happened" },
+          { "artist": "Women", "title": "Black Rice" }
+        ],
+        "deep_cuts": [
+          { "artist": "Slint", "title": "Good Morning, Captain" },
+          { "artist": "Godspeed You! Black Emperor", "title": "Storm" },
+          { "artist": "Sufjan Stevens", "title": "Impossible Soul" },
+          { "artist": "Low", "title": "Lullaby" },
+          { "artist": "Grizzly Bear", "title": "Colorado" },
+          { "artist": "Grouper", "title": "Heavy Water/I'd Rather Be Sleeping" },
+          { "artist": "Destroyer", "title": "Bay of Pigs" },
+          { "artist": "Dirty Projectors", "title": "Temecula Sunrise" },
+          { "artist": "Sun Kil Moon", "title": "Carissa" },
+          { "artist": "Mount Eerie", "title": "Real Death" }
+        ]
+      }
+    },
+    {
+      "category": "Heavy Metal",
+      "lists": {
+        "popular": [
+          { "artist": "Metallica", "title": "Enter Sandman" },
+          { "artist": "Black Sabbath", "title": "Iron Man" },
+          { "artist": "Iron Maiden", "title": "The Trooper" },
+          { "artist": "Judas Priest", "title": "Breaking the Law" },
+          { "artist": "Pantera", "title": "Walk" },
+          { "artist": "Slayer", "title": "Raining Blood" },
+          { "artist": "Megadeth", "title": "Symphony of Destruction" },
+          { "artist": "System of a Down", "title": "Chop Suey!" },
+          { "artist": "Avenged Sevenfold", "title": "Bat Country" },
+          { "artist": "Slipknot", "title": "Duality" }
+        ],
+        "important": [
+          { "artist": "Black Sabbath", "title": "Black Sabbath" },
+          { "artist": "Iron Maiden", "title": "Hallowed Be Thy Name" },
+          { "artist": "Judas Priest", "title": "Victim of Changes" },
+          { "artist": "Metallica", "title": "Master of Puppets" },
+          { "artist": "Slayer", "title": "Angel of Death" },
+          { "artist": "Motorhead", "title": "Ace of Spades" },
+          { "artist": "Venom", "title": "Black Metal" },
+          { "artist": "Sepultura", "title": "Refuse/Resist" },
+          { "artist": "Dio", "title": "Holy Diver" },
+          { "artist": "Anthrax", "title": "Indians" }
+        ],
+        "good_but_obscure": [
+          { "artist": "Sanctuary", "title": "Battle Angels" },
+          { "artist": "Angel Witch", "title": "Angel Witch" },
+          { "artist": "Trouble", "title": "The Tempter" },
+          { "artist": "Cirith Ungol", "title": "King of the Dead" },
+          { "artist": "Jag Panzer", "title": "Licensed to Kill" },
+          { "artist": "Solitude Aeturnus", "title": "Opaque Divinity" },
+          { "artist": "Manilla Road", "title": "Necropolis" },
+          { "artist": "Watchtower", "title": "Control and Resistance" },
+          { "artist": "Witchfinder General", "title": "Death Penalty" },
+          { "artist": "Slough Feg", "title": "The Wickerman" }
+        ],
+        "deep_cuts": [
+          { "artist": "Death", "title": "Symbolic" },
+          { "artist": "Bathory", "title": "A Fine Day to Die" },
+          { "artist": "Celtic Frost", "title": "Procreation (Of the Wicked)" },
+          { "artist": "Immortal", "title": "One by One" },
+          { "artist": "Opeth", "title": "The Moor" },
+          { "artist": "Gorguts", "title": "Obscura" },
+          { "artist": "Electric Wizard", "title": "Funeralopolis" },
+          { "artist": "Neurosis", "title": "Through Silver in Blood" },
+          { "artist": "Boris", "title": "Farewell" },
+          { "artist": "Tool", "title": "Third Eye" }
+        ]
+      }
+    },
+    {
+      "category": "Grunge",
+      "lists": {
+        "popular": [
+          { "artist": "Nirvana", "title": "Smells Like Teen Spirit" },
+          { "artist": "Pearl Jam", "title": "Alive" },
+          { "artist": "Soundgarden", "title": "Black Hole Sun" },
+          { "artist": "Alice in Chains", "title": "Man in the Box" },
+          { "artist": "Stone Temple Pilots", "title": "Plush" },
+          { "artist": "Bush", "title": "Glycerine" },
+          { "artist": "Temple of the Dog", "title": "Hunger Strike" },
+          { "artist": "Silverchair", "title": "Tomorrow" },
+          { "artist": "Smashing Pumpkins", "title": "Today" },
+          { "artist": "Hole", "title": "Celebrity Skin" }
+        ],
+        "important": [
+          { "artist": "Nirvana", "title": "Heart-Shaped Box" },
+          { "artist": "Pearl Jam", "title": "Jeremy" },
+          { "artist": "Alice in Chains", "title": "Would?" },
+          { "artist": "Soundgarden", "title": "Outshined" },
+          { "artist": "Mudhoney", "title": "Touch Me I'm Sick" },
+          { "artist": "Tad", "title": "Grease Box" },
+          { "artist": "The Melvins", "title": "Boris" },
+          { "artist": "Mother Love Bone", "title": "Chloe Dancer/Crown of Thorns" },
+          { "artist": "Screaming Trees", "title": "Nearly Lost You" },
+          { "artist": "L7", "title": "Pretend We're Dead" }
+        ],
+        "good_but_obscure": [
+          { "artist": "Skin Yard", "title": "1000 Smiling Knuckles" },
+          { "artist": "Gruntruck", "title": "Tribe" },
+          { "artist": "Seaweed", "title": "Start With" },
+          { "artist": "Love Battery", "title": "Out of Focus" },
+          { "artist": "Pond", "title": "Wheel" },
+          { "artist": "Hammerbox", "title": "When 3 Is 2" },
+          { "artist": "Green River", "title": "Swallow My Pride" },
+          { "artist": "My Sister's Machine", "title": "I'm Sorry" },
+          { "artist": "Satchel", "title": "Suffering" },
+          { "artist": "Sweet Water", "title": "Superstar" }
+        ],
+        "deep_cuts": [
+          { "artist": "Nirvana", "title": "Sappy" },
+          { "artist": "Soundgarden", "title": "Like Suicide" },
+          { "artist": "Alice in Chains", "title": "Frogs" },
+          { "artist": "Pearl Jam", "title": "Indifference" },
+          { "artist": "Mudhoney", "title": "In 'n' Out of Grace" },
+          { "artist": "The Melvins", "title": "At the Stake" },
+          { "artist": "Babes in Toyland", "title": "Bruise Violet" },
+          { "artist": "L7", "title": "Everglade" },
+          { "artist": "Screaming Trees", "title": "Shadow of the Season" },
+          { "artist": "Mother Love Bone", "title": "Stargazer" }
+        ]
+      }
+    },
+    {
+      "category": "Ska",
+      "lists": {
+        "popular": [
+          { "artist": "The Mighty Mighty Bosstones", "title": "The Impression That I Get" },
+          { "artist": "Reel Big Fish", "title": "Sell Out" },
+          { "artist": "No Doubt", "title": "Spiderwebs" },
+          { "artist": "Less Than Jake", "title": "The Science of Selling Yourself Short" },
+          { "artist": "The Specials", "title": "Ghost Town" },
+          { "artist": "Operation Ivy", "title": "Sound System" },
+          { "artist": "Madness", "title": "One Step Beyond" },
+          { "artist": "Goldfinger", "title": "Here in Your Bedroom" },
+          { "artist": "Save Ferris", "title": "Come On Eileen" },
+          { "artist": "Streetlight Manifesto", "title": "We Will Fall Together" }
+        ],
+        "important": [
+          { "artist": "The Skatalites", "title": "Guns of Navarone" },
+          { "artist": "The Specials", "title": "A Message to You Rudy" },
+          { "artist": "Toots and the Maytals", "title": "54-46 Was My Number" },
+          { "artist": "Desmond Dekker", "title": "Israelites" },
+          { "artist": "Operation Ivy", "title": "Take Warning" },
+          { "artist": "Fishbone", "title": "Party at Ground Zero" },
+          { "artist": "Madness", "title": "Baggy Trousers" },
+          { "artist": "The Selecter", "title": "On My Radio" },
+          { "artist": "The Beat", "title": "Mirror in the Bathroom" },
+          { "artist": "Hepcat", "title": "I Can't Wait" }
+        ],
+        "good_but_obscure": [
+          { "artist": "The Planet Smashers", "title": "Life of the Party" },
+          { "artist": "King Apparatus", "title": "Made for TV" },
+          { "artist": "Mephiskapheles", "title": "Doomsday" },
+          { "artist": "Buck-O-Nine", "title": "My Town" },
+          { "artist": "The Pietasters", "title": "Out All Night" },
+          { "artist": "The Rudiments", "title": "Magazine" },
+          { "artist": "Mustard Plug", "title": "Beer (Song)" },
+          { "artist": "Dance Hall Crashers", "title": "Lost Again" },
+          { "artist": "Pilfers", "title": "Legal Shot Pam Pam" },
+          { "artist": "Chris Murray", "title": "Let There Be Peace" }
+        ],
+        "deep_cuts": [
+          { "artist": "The Slackers", "title": "Have the Time" },
+          { "artist": "The Aggrolites", "title": "Free Time" },
+          { "artist": "Stubborn All-Stars", "title": "Tin Spam" },
+          { "artist": "Deals Gone Bad", "title": "Pirates" },
+          { "artist": "The Toasters", "title": "Dub 56" },
+          { "artist": "Eastern Standard Time", "title": "Cool Sunset" },
+          { "artist": "Westbound Train", "title": "Check Your Time" },
+          { "artist": "Bim Skala Bim", "title": "Jah Laundromat" },
+          { "artist": "The Scofflaws", "title": "William Shatner" },
+          { "artist": "Victor Rice", "title": "Do Right" }
+        ]
+      }
+    }
+  ]
+}
